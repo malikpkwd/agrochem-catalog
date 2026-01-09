@@ -1,0 +1,359 @@
+[
+  {
+    "id": 1,
+    "name": "GlyphoMax 41 SL",
+    "price": 45,
+    "description": "Herbicide — Active: Glyphosate 41% SL. Use for post-emergent control of broadleaf weeds and grasses. Formulation: Soluble Liquid.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 2,
+    "name": "Atrazine Pro 500",
+    "price": 38,
+    "description": "Herbicide — Active: Atrazine 50% WP. Pre- and post-emergent control of annual broadleaf and grassy weeds in corn. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 3,
+    "name": "ParaSafe 36 EC",
+    "price": 29,
+    "description": "Herbicide — Active: Paraquat 36% EC. Fast-acting contact herbicide for weed desiccation. Handle with care; restricted use.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 4,
+    "name": "CyperShield 10 EC",
+    "price": 52,
+    "description": "Insecticide — Active: Cypermethrin 10% EC. Broad-spectrum control of chewing and sucking insects. Formulation: Emulsifiable Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 5,
+    "name": "Imidacare 20 SC",
+    "price": 64,
+    "description": "Insecticide — Active: Imidacloprid 20% SC. Systemic insecticide for aphids, whiteflies and other sap-feeders. Formulation: Suspension Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 6,
+    "name": "Chlorothalonil Guard 75 WG",
+    "price": 55,
+    "description": "Fungicide — Active: Chlorothalonil 75% WG. Protective fungicide for leaf spots and blights. Formulation: Water Dispersible Granule.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 7,
+    "name": "Mancozeb Plus 80 WP",
+    "price": 32,
+    "description": "Fungicide — Active: Mancozeb 80% WP. Broad-spectrum control for fungal diseases. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 8,
+    "name": "MycoGuard 20 SC",
+    "price": 72,
+    "description": "Fungicide — Active: Azoxystrobin 20% SC. Systemic fungicide for rusts and spots. Formulation: Suspension Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 9,
+    "name": "Copper Shield 50 WP",
+    "price": 40,
+    "description": "Fungicide/Bactericide — Active: Copper oxychloride 50% WP. Protects against fungal and bacterial diseases. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 10,
+    "name": "NeemBio 0.3 EC",
+    "price": 27,
+    "description": "Bio-insecticide — Active: Azadirachtin 0.3% EC. Organic option for soft-bodied pests and growth disruption. Formulation: Emulsifiable Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 11,
+    "name": "BacGuard WG",
+    "price": 85,
+    "description": "Bio-fungicide — Active: Bacillus subtilis strain for disease suppression. Use as protectant and inducer of plant defenses. Formulation: Water Dispersible Granule.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 12,
+    "name": "S-Metolachlor 960 EC",
+    "price": 47,
+    "description": "Pre-emergent Herbicide — Active: S-metolachlor 960 g/L EC. Controls annual grasses and some broadleaves. Formulation: Emulsifiable Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 13,
+    "name": "Dicamba XT 480 SL",
+    "price": 34,
+    "description": "Herbicide — Active: Dicamba 48% SL. Broadleaf weed control in tolerant crops; follow label for rotation restrictions.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 14,
+    "name": "LambdaPro 2.5 CS",
+    "price": 58,
+    "description": "Insecticide — Active: Lambda-cyhalothrin 2.5% CS. Broad-spectrum knockdown and residual control. Formulation: Capsule Suspension.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 15,
+    "name": "Spinetor 12 SC",
+    "price": 95,
+    "description": "Insecticide — Active: Spinetoram 12% SC. Effective against caterpillars and leafminers. Formulation: Suspension Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 16,
+    "name": "Oxathiap 25 WG",
+    "price": 68,
+    "description": "Insecticide — Active: Oxathiapiprolin 25% WG. Effective against oomycete pathogens (fungal-like). Formulation: Water Dispersible Granule.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 17,
+    "name": "Metalaxyl-M 35 WP",
+    "price": 43,
+    "description": "Fungicide — Active: Metalaxyl-M 35% WP. Systemic control of downy mildews and oomycetes. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 18,
+    "name": "Fenbuconazole 25 EC",
+    "price": 61,
+    "description": "Fungicide — Active: Fenbuconazole 25% EC. Broad-spectrum systemic fungicide for cereals and fruits. Formulation: Emulsifiable Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 19,
+    "name": "Methiocarb 50 WP",
+    "price": 36,
+    "description": "Insecticide/Slug Pellets — Active: Methiocarb 50% WP. Controls slugs and snails in various crops. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 20,
+    "name": "Pyraclostrobin 33 WG",
+    "price": 88,
+    "description": "Fungicide — Active: Pyraclostrobin 33% WG. Protectant and curative action for multiple diseases. Formulation: Water Dispersible Granule.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 21,
+    "name": "Chlorpyrifos 40 EC",
+    "price": 30,
+    "description": "Insecticide — Active: Chlorpyrifos 40% EC. Broad-spectrum control of soil and foliar pests. Note regulatory restrictions in some regions.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 22,
+    "name": "Thiabendazole 50 WP",
+    "price": 22,
+    "description": "Fungicide — Active: Thiabendazole 50% WP. Seed treatment and post-harvest disease control. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 23,
+    "name": "Sulfur 80 WP",
+    "price": 18,
+    "description": "Fungicide/Acaricide — Active: Sulfur 80% WP. Traditional product for powdery mildew and mites. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 24,
+    "name": "Oxamyl 24 SL",
+    "price": 76,
+    "description": "Nematicide/Insecticide — Active: Oxamyl 24% SL. Controls nematodes and certain insects; use carefully per label.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 25,
+    "name": "Sulfoxaflor 150 OD",
+    "price": 110,
+    "description": "Insecticide — Active: Sulfoxaflor 150 g/L OD. Targeted control for sap-feeding insects; follow pollinator safety guidance.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 26,
+    "name": "Buprofezin 25 WP",
+    "price": 39,
+    "description": "Insect Growth Regulator — Active: Buprofezin 25% WP. Controls scale and whitefly nymphs. Formulation: Wettable Powder.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 27,
+    "name": "Strobilurins Combo 40 WG",
+    "price": 98,
+    "description": "Fungicide Mix — Contains Azoxystrobin + Difenoconazole. Broad-spectrum disease control in fruits and vegetables. Formulation: WG.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 28,
+    "name": "Sodium Bicarbonate 45 WP",
+    "price": 16,
+    "description": "Fungicide (biorational) — Sodium bicarbonate based foliar spray for mild disease suppression. Safe for organic use in some programs.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 29,
+    "name": "Permethrin 25 EC",
+    "price": 21,
+    "description": "Insecticide — Active: Permethrin 25% EC. Fast-acting contact insecticide for diverse pests. Formulation: Emulsifiable Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 30,
+    "name": "Azoxystrobin 10 SC",
+    "price": 66,
+    "description": "Fungicide — Active: Azoxystrobin 10% SC. Systemic protectant for many foliar diseases. Formulation: Suspension Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 31,
+    "name": "Deltamethrin 2.5 EC",
+    "price": 28,
+    "description": "Insecticide — Active: Deltamethrin 2.5% EC. Broad-spectrum control with strong knockdown. Formulation: Emulsifiable Concentrate.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 32,
+    "name": "Mancozeb + Metalaxyl 72 WP",
+    "price": 49,
+    "description": "Fungicide Mix — Mancozeb + Metalaxyl for durable control of multiple diseases. Formulation: WP.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 33,
+    "name": "Fludioxonil 25 SC",
+    "price": 82,
+    "description": "Fungicide — Active: Fludioxonil 25% SC. Post-harvest and seed treatment fungicide. Formulation: SC.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 34,
+    "name": "Copper Soap 15 EC",
+    "price": 26,
+    "description": "Fungicide/Bactericide — Copper soap formulation for fruit tree sprays; reduced phytotoxicity risk.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 35,
+    "name": "Rotenone 5 EC",
+    "price": 19,
+    "description": "Bio-insecticide — Traditional botanical insecticide for small-scale organic-compatible use; check local regulations.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 36,
+    "name": "Pyriproxyfen 10 WP",
+    "price": 54,
+    "description": "Insect Growth Regulator — Active: Pyriproxyfen 10% WP. Disrupts insect development (eggs/larvae).",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 37,
+    "name": "Carbendazim 50 WP",
+    "price": 31,
+    "description": "Fungicide — Active: Carbendazim 50% WP. Systemic fungicide for seed and foliar disease control.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 38,
+    "name": "Quinclorac 75 WG",
+    "price": 44,
+    "description": "Herbicide — Active: Quinclorac 75% WG. Selective control of grassy and certain broadleaf weeds in rice and turf.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 39,
+    "name": "Iprodione 50 WP",
+    "price": 37,
+    "description": "Fungicide — Active: Iprodione 50% WP. Control of botrytis and sclerotinia in vegetables and ornamentals.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 40,
+    "name": "Bentazon 480 SL",
+    "price": 23,
+    "description": "Herbicide — Active: Bentazon 48% SL. Post-emergent control of broadleaf weeds in certain crops.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 41,
+    "name": "Mepiquat Chloride 12 SL",
+    "price": 71,
+    "description": "Plant Growth Regulator — Active: Mepiquat chloride 12% SL. Used to reduce vegetative growth and improve fruiting.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 42,
+    "name": "Kaolin Clay 95 WP",
+    "price": 24,
+    "description": "Particle Film — Kaolin-based spray to deter pests and reduce sunburn on fruit; compatible with IPM.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 43,
+    "name": "Hydrogen Peroxide 27.5% EC",
+    "price": 17,
+    "description": "Sanitizer/Fungicide — Use for foliar disinfecting and post-harvest washing per label.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 44,
+    "name": "Silicon Solution 10 SL",
+    "price": 36,
+    "description": "Crop Strengthener — Soluble silicon for improved plant resistance to abiotic and biotic stressors.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 45,
+    "name": "Sulfoxide Adjuvant 90 ML",
+    "price": 12,
+    "description": "Spray adjuvant — Improves spread, penetration and rainfastness of foliar sprays.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 46,
+    "name": "Surfactant Blend 100 ML",
+    "price": 9,
+    "description": "Non-ionic surfactant to improve wetting and uptake of pesticides and fertilizers.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 47,
+    "name": "Neem Oil 30 EC",
+    "price": 29,
+    "description": "Botanical insecticide and fungicide — Cold-pressed neem oil formulation for organic use.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 48,
+    "name": "Fermentation Extract 25 SC",
+    "price": 58,
+    "description": "Bio-fertilizer/Biostimulant — Extracts to promote soil and plant microbial health.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 49,
+    "name": "Clothianidin 50 WG",
+    "price": 120,
+    "description": "Insecticide — Active: Clothianidin 50% WG. Systemic neonicotinoid for soil/seed treatments; follow pollinator safety instructions.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "id": 50,
+    "name": "Integrated Pack (Starter)",
+    "price": 199,
+    "description": "Starter bundle — Small farmer kit with low-toxicity herbicide, bio-insecticide, surfactant and instructions for IPM use.",
+    "image": "https://media.gettyimages.com/id/805830962/photo/farmer-working-in-wheat-field.jpg?s=612x612&w=0&k=20&c=nnY-TfWYcDEgxibaMjYiCN4zbt9R9PG_nH-laWAIPKc="
+  },
+  {
+    "name": "test1",
+    "price": 123,
+    "description": "this is a test product",
+    "image": "https://img.freepik.com/premium-photo/farmer-spraying-pesticides-corn-plants_1170794-246582.jpg",
+    "id": 51
+  }
+]
