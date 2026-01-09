@@ -1,0 +1,70 @@
+name: Build, Deploy and Publish
+
+on:
+  push:
+    branches: [ main, master ]
+  pull_request:
+    branches: [ main, master ]
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    
+    - name: Set up Node.js
+      uses: actions/setup-node@v3
+      with:
+        node-version: '18'
+    
+    - name: Install dependencies
+      run: npm install
+    
+    - name: Build React app
+      run: npm run build
+    
+    - name: Start backend server (port 3001)
+      run: |
+        node server.js &
+        sleep 2
+      env:
+        PORT: 3001
+    
+    - name: Start frontend app (port 3000)
+      run: |
+        npm start &
+        sleep 5
+      env:
+        PORT: 3000
+    
+    - name: Run tests
+      run: npm test -- --watchAll=false --passWithNoTests
+    
+    - name: Deploy to GitHub Pages
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      run: npm run deploy
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    
+    - name: Publish artifacts
+      if: success()
+      uses: actions/upload-artifact@v3
+      with:
+        name: build-artifacts
+        path: build/
+    
+    - name: Create release
+      if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+      uses: actions/create-release@v1
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      with:
+        tag_name: v${{ github.run_number }}
+        release_name: Release v${{ github.run_number }}
+        body: |
+          Frontend built and deployed to GitHub Pages
+          Backend server running on port 3001
+          Frontend running on port 3000
+        draft: false
+        prerelease: false
